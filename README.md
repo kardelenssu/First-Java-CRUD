@@ -52,3 +52,4 @@ nd with id: 99"
 <img width="1207" height="686" alt="Screenshot 2025-12-20 025711" src="https://github.com/user-attachments/assets/f47bab7e-1815-434a-abb9-3ff3a492776a" />
 
 <img width="1833" height="1078" alt="image" src="https://github.com/user-attachments/assets/584ed976-d471-4598-9c7b-466d3ec68285" />
+i add mine pull request for my teammate. the last photois the proof that. 
