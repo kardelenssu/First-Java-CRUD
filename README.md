@@ -12,13 +12,7 @@ Technologies Used
 - H2 In-Memory Database
 - Swagger (OpenAPI)
 - Maven
-Project Structure
-The project follows a layered architecture:
-- Controller layer handles HTTP requests
-- Service layer contains business logic
-- Repository layer handles database operations
-- Domain layer contains entity classes
-- Support layer contains mappers and exception handling
+
 How to Run the Application
 1. Open the project in IntelliJ IDEA
 2. Make sure Java 17 is installed
